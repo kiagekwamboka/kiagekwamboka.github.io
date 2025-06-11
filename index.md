@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-I am a Technical Support Engineer with a strong background in IT and cybersecurity, now expanding my knowledge in data, AI, and cloud computing. I’m learning practical skills like Python, data analysis, and cloud basics through hands-on projects and training. I enjoy exploring how technology can solve real problems and I’m always looking for ways to grow and apply new skills in meaningful ways.
+I am a Technical Support Engineer with a strong background in IT and cybersecurity, now expanding my knowledge in data, AI, and cloud computing. I’m learning practical skills like Python, data analysis, and cloud through hands-on projects and training. 
 
 
 ## What I do
