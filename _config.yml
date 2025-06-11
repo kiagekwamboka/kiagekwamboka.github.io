@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/photos/photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Nairobi, Kenya"
-  email            : "kiagew@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
