@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: https://kiagekwamboka.github.io/
   - title: "Projects"
     url: https://kiagekwamboka.github.io/docs/pages/projects/
   - title: "Dashboards"
