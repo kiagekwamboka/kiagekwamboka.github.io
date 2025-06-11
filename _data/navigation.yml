@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://kiagekwamboka.github.io/
   - title: "Projects"
-    url: https://kiagekwamboka.github.io/docs/pages/projects/
+    url: https://kiagekwamboka.github.io/docs/pages/project/
   - title: "Dashboards"
-    url: https://kiagekwamboka.github.io/docs/pages/dashboards/
+    url: https://kiagekwamboka.github.io/docs/pages/dashboard/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
