@@ -21,5 +21,5 @@ permalink: /project/
 ### **3. Hospitality Dashboard**  
 **Tech Stack:** Power BI, DAX
 - Built an interactive **hospitality dashboard** to analyze weekly performance trends.    
-<iframe src="https://drive.google.com/file/d/1dQhxE-V7UQMIvLn_-HUhZZiUoHFjipM5/view?usp=drive_link" width="100%" height="600px"></iframe>
+<iframe src="https://ibb.co/27QxbgCt" width="100%" height="600px"></iframe>
 
