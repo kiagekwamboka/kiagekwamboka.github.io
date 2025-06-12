@@ -1,15 +1,7 @@
 ---
-title: "Dashboards"
-permalink: /dashboard/
+title: "Resume"
+permalink: /resume/
 ---
-# 🏆 Winnie Kiage  
-**Technical Support Engineer | Data, Cloud & Cybersecurity Enthusiast**  
-📍 Nairobi, Kenya  
-📞 +254707568519  
-✉️ kiagew@gmail.com  
-
----
-
 ## 📌 Summary  
 Detail-oriented Technical Support Engineer with over two years of experience supporting customers through onboarding, issue resolution, and system optimization. Skilled in SaaS solutions, IT security, and documentation, with a growing focus on cloud computing, data analysis, and AI. Passionate about collaboration, continuous improvement, and using technology to drive smarter outcomes.
 
@@ -53,15 +45,6 @@ Detail-oriented Technical Support Engineer with over two years of experience sup
 - Trained staff on troubleshooting and system usage, reducing IT dependence.  
 - Managed ICT inventory, planned upgrades, and reduced equipment downtime.  
 - Provided cross-departmental network support to ensure consistent operations.
-
----
-
-## 🧪 Projects & Exploratory Work  
-- **Sales & Retention Dashboards** (Power BI, DAX)  
-- **Data Wrangling & EDA Projects** (Python, Pandas, Seaborn)  
-- **Web Scraping Tools** (Python, BeautifulSoup)  
-
-See more on my [Projects Page]
 
 ---
 
