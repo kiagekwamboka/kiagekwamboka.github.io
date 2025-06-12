@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://kiagekwamboka.github.io/
   - title: "Projects"
-    url: /docs/_pages/project.md
+    url: /project/
   - title: "Resume"
-    url: /docs/_pages/resume.md/
+    url: /resume/
   #- title: "Lab Challenges"
   #  url: /labchallen/
   # - title: "Sample Collections"
