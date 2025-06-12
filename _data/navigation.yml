@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: https://kiagekwamboka.github.io/
   - title: "Projects"
-    url: /project/
+    url: /docs/_pages/project.md
   - title: "Resume"
-    url: /resume/
-  - title: "Lab Challenges"
-    url: /labchallen/
+    url: /docs/_pages/resume.md/
+  #- title: "Lab Challenges"
+  #  url: /labchallen/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

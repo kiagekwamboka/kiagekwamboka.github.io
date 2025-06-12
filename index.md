@@ -14,9 +14,9 @@ I create interactive dashboards using Power BI to support informed decisions. My
 ### **1. Web Scraping & Data Processing**  
 **Tech Stack:** Python 
 - Developed a **web scraping tool** to extract real-time data from online sources. 
-<iframe src="https://www.kaggle.com/embed/winniekiage/web-scraping-with-python?kernelSessionId=245060709" height="400" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Web Scraping with Python"></iframe>
+<iframe src="https://www.kaggle.com/embed/winniekiage/web-scraping-with-python?kernelSessionId=245060709" height="600px" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Web Scraping with Python"></iframe>
 
 ### **2. Hospitality Dashboard**  
 **Tech Stack:** Power BI, DAX,
 - Built an interactive **hospitality dashboard** to analyze weekly performance trends.    
-<iframe src="https://drive.google.com/file/d/1NRLk4GouDhMRrmOb-dzVXt4Jf1u-8aTC/view?usp=drive_link" width="100%" height="400px"></iframe>
+<iframe src="https://drive.google.com/file/d/1NRLk4GouDhMRrmOb-dzVXt4Jf1u-8aTC/view?usp=drive_link" width="100%" height="600px"></iframe>
