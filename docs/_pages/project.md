@@ -3,9 +3,9 @@ title: "Projects"
 permalink: /project/
 ---
 
-# 🚀 Projects
+#  Projects
 
-## 📊 Data Analysis & Visualization  
+##  Data Analysis & Visualization  
 
 ### **1. Web Scraping & Data Processing**  
 **Tech Stack:** Python 
@@ -21,5 +21,4 @@ permalink: /project/
 ### **3. Hospitality Dashboard**  
 **Tech Stack:** Power BI, DAX
 - Built an interactive **hospitality dashboard** to analyze weekly performance trends.    
-<iframe src="https://kiagekwamboka.github.io/assets/photos/dashboard.png" width="100%" height="600px"></iframe>
-
+<<iframe src="https://github.com/kiagekwamboka/kiagekwamboka.github.io" height="600px" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto"></iframe>
