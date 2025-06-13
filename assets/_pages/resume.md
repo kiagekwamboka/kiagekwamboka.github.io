@@ -1,6 +1,6 @@
 ---
-title: "Dashboards"
-permalink: /dashboard/
+title: "Resume"
+permalink: /resume/
 ---
 # Winnie Kiage  
 **Technical Support Engineer | Data, Cloud & Cybersecurity Enthusiast**  
@@ -15,7 +15,7 @@ Detail-oriented Technical Support Engineer with over two years of experience sup
 
 ---
 
-## 🛠️ Skills & Qualifications  
+##  Skills & Qualifications  
 - **Technical Support & Troubleshooting**  
 - **SaaS Solutions & Security Tools** (Zecurion DLP, Barracuda, Bitdefender, PRTG)  
 - **Customer Onboarding & Stakeholder Management**  
