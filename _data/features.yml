@@ -1,0 +1,24 @@
+projects:
+  - image_path: /assets/images/project1.png
+    alt: "Web Scraping Tool"
+    title: "Web Scraping & Data Processing"
+    excerpt: "Developed a Python-based tool to automate data collection and cleaning for business insights."
+    url: "/projects/web-scraping"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/project2.png
+    alt: "Power BI Dashboard"
+    title: "Business Intelligence Dashboard"
+    excerpt: "Designed interactive dashboards in Power BI to visualize KPIs and improve decision-making."
+    url: "/projects/powerbi-dashboard"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/project3.png
+    alt: "Customer Success Playbook"
+    title: "Customer Success Workflow"
+    excerpt: "Created onboarding and troubleshooting documentation to empower support teams and users."
+    url: "/projects/customer-success"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
