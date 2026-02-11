@@ -66,7 +66,8 @@ See more on my [Projects Page]
 ---
 
 ##  Certifications  
-- **AWS Certified Cloud Practitioner** — April 2025 
+- **AWS Certified Cloud Practitioner** — April 2025
+- **Data & AI Certification ** — August 2025 
 ---
 
 ## Education  
