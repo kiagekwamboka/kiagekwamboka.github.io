@@ -5,12 +5,12 @@ baseurl: "" # leave empty for GitHub Pages root
 
 author:
   name: "Winnie Kiage"
-  email: "your.email@example.com"
-  avatar: "/assets/images/profile.jpg" # replace with your photo path
+  email: "kiagew@gmail.com"
+  avatar: "/assets/photos/photo.jpg" # replace with your photo path
   bio: "Mission-driven IT professional, data analyst, and social impact strategist. Experienced in customer success, technical support, and business intelligence."
 
 # Theme settings
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
 permalink: /:categories/:title/
 
@@ -36,7 +36,7 @@ footer:
       url: "https://linkedin.com/in/winniekiage"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:your.email@example.com"
+      url: "mailto:kiagew@gmail.com"
 
 # SEO
 seo:
