@@ -10,7 +10,7 @@ author:
   bio: "Mission-driven IT professional, data analyst, and social impact strategist. Experienced in customer success, technical support, and business intelligence."
 
 # Theme settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 markdown: kramdown
 permalink: /:categories/:title/
 
