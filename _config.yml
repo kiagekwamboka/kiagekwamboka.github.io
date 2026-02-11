@@ -5,16 +5,18 @@ baseurl: "" # leave empty for GitHub Pages root
 
 author:
   name: "Winnie Kiage"
-  email: "kiagew@gmail.com"
-  avatar: "/assets/photos/photo.jpg" # replace with your photo path
-  bio: "Mission-driven IT professional, data analyst, and social impact strategist. Experienced in customer success, technical support, and business intelligence."
+  email: "your.email@example.com"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Mission-driven IT professional, data analyst, and social impact strategist."
 
-# Theme settings
+# Use Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes"
+
+# Markdown processor
 markdown: kramdown
 permalink: /:categories/:title/
 
-# Navigation
+# Navigation menu
 navigation:
   - title: "Home"
     url: /
@@ -36,9 +38,9 @@ footer:
       url: "https://linkedin.com/in/winniekiage"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:kiagew@gmail.com"
+      url: "mailto:your.email@example.com"
 
-# SEO
+# SEO settings
 seo:
   type: "Person"
   name: "Winnie Kiage"
@@ -46,7 +48,8 @@ seo:
   twitter_card: "summary_large_image"
 
 # Analytics (optional)
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-XXXXXX-X"
+# Uncomment and add your tracking ID if needed
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-XXXXXX-X"
