@@ -21,4 +21,4 @@ permalink: /project/
 ### **3. Hospitality Dashboard**  
 **Tech Stack:** Power BI, DAX
 - Built an interactive **hospitality dashboard** to analyze weekly performance trends.    
-<<iframe src="https://github.com/kiagekwamboka/kiagekwamboka.github.io" height="600px" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto"></iframe>
+<<iframe src="assets/photos/dashboard.png" height="600px" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto"></iframe>
