@@ -20,3 +20,4 @@ I create interactive dashboards using Power BI to support informed decisions. My
 **Tech Stack:** Power BI, DAX
 - Built an interactive **hospitality dashboard** to analyze weekly performance trends.    
 <iframe src="https://ibb.co/27QxbgCt" width="100%" height="600px"></iframe>
+<script async src="https://imgbb.com/upload.js"></script>
