@@ -1,40 +1,26 @@
 ---
-layout: splash
-title: "Winnie Kiage"
-permalink: /
+layout: single
+title: "Customer Success Workflow"
+permalink: /projects/customer-success/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/hero-bg.jpg
-  caption: "Photo by Unsplash"
-excerpt: "Versatile IT Professional | Data Analyst | Customer Success Strategist"
+  overlay_image: /assets/images/project3.png
+excerpt: "Onboarding and troubleshooting documentation for support teams."
 ---
 
-[Download Resume](assets/resume.pdf){: .btn .btn--success}
-[View GitHub](https://github.com/kiagekwamboka){: .btn .btn--primary}
-[Connect on LinkedIn](https://linkedin.com/in/winniekiage){: .btn .btn--info}
+## Overview
+Developed a structured workflow and documentation playbook to empower customer success teams and improve user onboarding.
 
----
+## Tech Stack
+- Confluence / Notion
+- Markdown / HTML
+- SaaS support tools
 
-## About Me
-I’m a mission-driven IT professional and data analyst with experience in customer success, technical support, and business intelligence. I thrive in remote-first, global teams and specialize in translating complex technical feedback into clear, actionable steps.
+## Key Contributions
+- Created onboarding guides tailored to different user personas.
+- Documented troubleshooting steps for common technical issues.
+- Facilitated training sessions for support agents.
 
----
-
-## Featured Projects
-{% include feature_row id="projects" %}
-
----
-
-## Skills
-- **Data & BI Tools:** Power BI, Tableau, Excel, SQL  
-- **Technical Support:** SaaS solutions, endpoint security, troubleshooting  
-- **Soft Skills:** Empathetic coaching, clear documentation, process optimization  
-
----
-
-## Contact
-Let’s collaborate!  
-- 📧 [Email Me](mailto:your.email@example.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/winniekiage)  
-- 💻 [GitHub](https://github.com/kiagekwamboka)
+## Impact
+Improved customer onboarding experience and reduced support ticket resolution time by 40%.
