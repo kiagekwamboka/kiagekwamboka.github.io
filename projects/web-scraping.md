@@ -1,40 +1,26 @@
 ---
-layout: splash
-title: "Winnie Kiage"
-permalink: /
+layout: single
+title: "Web Scraping & Data Processing"
+permalink: /projects/web-scraping/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/hero-bg.jpg
-  caption: "Photo by Unsplash"
-excerpt: "Versatile IT Professional | Data Analyst | Customer Success Strategist"
+  overlay_image: /assets/images/project1.png
+excerpt: "Automating data collection and cleaning with Python."
 ---
 
-[Download Resume](assets/resume.pdf){: .btn .btn--success}
-[View GitHub](https://github.com/kiagekwamboka){: .btn .btn--primary}
-[Connect on LinkedIn](https://linkedin.com/in/winniekiage){: .btn .btn--info}
+## Overview
+This project involved building a Python-based web scraping tool to automate the collection of structured data from multiple sources. The tool cleaned and processed the data for use in business intelligence workflows.
 
----
+## Tech Stack
+- Python (BeautifulSoup, Requests, Pandas)
+- Jupyter Notebook
+- CSV/Excel export
 
-## About Me
-I’m a mission-driven IT professional and data analyst with experience in customer success, technical support, and business intelligence. I thrive in remote-first, global teams and specialize in translating complex technical feedback into clear, actionable steps.
+## Key Contributions
+- Automated scraping from multiple websites.
+- Implemented data cleaning routines to remove duplicates and inconsistencies.
+- Exported results into structured formats for analysis.
 
----
-
-## Featured Projects
-{% include feature_row id="projects" %}
-
----
-
-## Skills
-- **Data & BI Tools:** Power BI, Tableau, Excel, SQL  
-- **Technical Support:** SaaS solutions, endpoint security, troubleshooting  
-- **Soft Skills:** Empathetic coaching, clear documentation, process optimization  
-
----
-
-## Contact
-Let’s collaborate!  
-- 📧 [Email Me](mailto:your.email@example.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/winniekiage)  
-- 💻 [GitHub](https://github.com/kiagekwamboka)
+## Impact
+Reduced manual data collection time by over 70% and improved accuracy of datasets used for reporting.
