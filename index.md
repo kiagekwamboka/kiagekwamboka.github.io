@@ -1,23 +1,40 @@
 ---
-layout: single
-author_profile: true
+layout: splash
+title: "Winnie Kiage"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/hero-bg.jpg
+  caption: "Photo by Unsplash"
+excerpt: "Versatile IT Professional | Data Analyst | Customer Success Strategist"
 ---
-I am a Technical Support Engineer with a strong background in IT and cybersecurity, now expanding my knowledge in data, AI, and cloud computing. I’m learning practical skills like Python, data analysis, and cloud through hands-on projects and training. 
 
+[Download Resume](assets/resume.pdf){: .btn .btn--success}
+[View GitHub](https://github.com/kiagekwamboka){: .btn .btn--primary}
+[Connect on LinkedIn](https://linkedin.com/in/winniekiage){: .btn .btn--info}
 
-## What I do
-Data Analysis & Visualization
-I create interactive dashboards using Power BI to support informed decisions. My goal is to communicate complex data in simple, visual narratives.
+---
 
+## About Me
+I’m a mission-driven IT professional and data analyst with experience in customer success, technical support, and business intelligence. I thrive in remote-first, global teams and specialize in translating complex technical feedback into clear, actionable steps.
+
+---
 
 ## Featured Projects
-### **1. Web Scraping & Data Processing**  
-**Tech Stack:** Python 
-- Developed a **web scraping tool** to extract real-time data from online sources. 
-<iframe src="https://www.kaggle.com/embed/winniekiage/web-scraping-with-python?kernelSessionId=245060709" height="600px" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Web Scraping with Python"></iframe>
+{% include feature_row id="projects" %}
 
-### **2. Hospitality Dashboard**  
-**Tech Stack:** Power BI, DAX
-- Built an interactive **hospitality dashboard** to analyze weekly performance trends.    
-<iframe src="https://ibb.co/27QxbgCt" width="100%" height="600px"></iframe>
-<script async src="https://imgbb.com/upload.js"></script>
+---
+
+## Skills
+- **Data & BI Tools:** Power BI, Tableau, Excel, SQL  
+- **Technical Support:** SaaS solutions, endpoint security, troubleshooting  
+- **Soft Skills:** Empathetic coaching, clear documentation, process optimization  
+
+---
+
+## Contact
+Let’s collaborate!  
+- 📧 [Email Me](mailto:your.email@example.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/winniekiage)  
+- 💻 [GitHub](https://github.com/kiagekwamboka)
